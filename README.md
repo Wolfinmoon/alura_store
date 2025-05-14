@@ -2,7 +2,7 @@
 
 ## 📝 Descrição do Projeto
 
-Este projeto realiza uma análise comparativa do desempenho de quatro unidades da Alura Store. O objetivo principal é identificar a loja com o desempenho mais fraco, fornecendo subsídios para uma decisão estratégica de negócios (por exemplo, a venda de uma das unidades). A análise se baseia em dados reais de vendas e avaliações dos clientes.
+Este projeto realiza uma análise comparativa do desempenho de quatro unidades da Alura Store. O objetivo principal é identificar a loja com o desempenho mais fraco, fornecendo subsídios para uma decisão estratégica de negócios (por exemplo, a venda de uma das unidades). A análise se baseia em dados fictícios de vendas e avaliações dos clientes.
 
 ## 🎯 Objetivo
 
